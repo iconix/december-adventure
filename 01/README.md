@@ -9,16 +9,6 @@
     - if i was willing to download separate tools, could use [PsShutdown - Sysinternals | Microsoft Learn](https://learn.microsoft.com/en-us/sysinternals/downloads/psshutdown) -- to avoid [hibernation and elevated prompt issues](https://winaero.com/how-to-sleep-windows-10-from-the-command-line/) and [task scheduling issues](https://stackoverflow.com/questions/32360306/sleep-via-shortcut-causes-schedule-tasks-to-not-wake-computer) -- however, decided i want to get as close as possible to letting this run on any windows machine without extra dependencies
     - that said, the hibernate issue _is_ pretty annoying lol
 
-til (via asking [perplexity.ai](https://www.perplexity.ai/))
-```markdown
-- Use `#!/usr/bin/env bash` for scripts intended for portability and public distribution
-- Use `#!/bin/bash` when security is a priority or when you need to pass additional parameters to the interpreter
-
-sources:
-- https://codejunction.hashnode.dev/the-advantage-of-using-usrbinenv-bash-over-binbash
-- https://www.baeldung.com/linux/bash-shebang-lines
-```
-
 improvements:
 - better logging with log levels
 - better error handling
