@@ -1,7 +1,7 @@
 # 12 01 2024
 
 ## adventure 01: make break.sh windows-compatible
-- brushing off an old bash script that i wrote for a mac
+- brushing off an old bash script that i wrote for a mac to make it windows-compatible, now that i am back on windows
 - basically my problem is that me saying "just 5 more minutes and then i will get lunch" easily becomes me never getting lunch... so this script strongly nudges me to take that break that i said i would, by putting the laptop to sleep and breaking my flow pretty abruptly (and annoyingly). ideally this snaps me out of whatever trance i am in
 - this is also a good excuse to try out [ShellCheck – shell script analysis tool](https://www.shellcheck.net/)
 - this was helpful for development: [How to Put a Windows 11 PC to Sleep](https://www.howtogeek.com/763430/how-to-put-a-windows-11-pc-to-sleep/)
