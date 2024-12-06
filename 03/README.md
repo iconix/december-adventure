@@ -9,7 +9,7 @@
     ![graphic with game of life rules, as explained by rc](rc-conway.png)
     _game of life rules, as explained by rc faculty_
 
-- my pairing partner and i booted up a [replit](https://replit.com/) and got a basic python implementation working in the workshop time + with some extra time right after the session (because we wanted to get it working!!). the game was hardcoded to a 3x3 grid, with 1s and 0s representing alive and dead cells, and 5 'generations' of life. each generation printed its grid to console below the previous generation's grid. so it was functional but not pretty. we also learned that the game gets to a 'stable' state really fast on a 3x3 grid.
+- annie lydens, cindy wu, and i booted up a [replit](https://replit.com/) and got a basic python implementation working in the workshop time + with some extra time right after the session (because we wanted to get it working!!). the game was hardcoded to a 3x3 grid, with 1s and 0s representing alive and dead cells, and 5 'generations' of life. each generation printed its grid to console below the previous generation's grid. so it was functional but not pretty. we also learned that the game gets to a 'stable' state really fast on a 3x3 grid.
 
     ![output from our basic game of life implementation](basic-impl.png)
 
