@@ -2,7 +2,7 @@
 
 ## adventure 05: running python in browser for conway's game of life
 
-- today, i googled whether there's a way to run python in the browser - had a feeling that i'd read that this is possible somewhere, probably on hacker news. and there is: [pyscript](https://pyscript.net/), an "open source platform for python in the browser" 🐍
+- today picks up from [adventure 04](../04/README.md). i googled whether there's a way to run python in the browser - had a feeling that i'd read that this is possible somewhere, probably on hacker news. and there is: [pyscript](https://pyscript.net/), an "open source platform for python in the browser" 🐍
 - basically, i don't want to port this implementation to javascript, but i still want to be able to point folks to it running on the internet 💁🏾‍♀️
 - as someone on hn put it, pyscript's elevator pitch would be "python inside script tags via pyodide" - [pyodide](https://github.com/pyodide/pyodide) is providing the core magic, as its a port of regular ol' cpython, compiled to webassembly/emscripten so that we can run pure python in web browsers (or even node.js) - pretty neat!!
 - pyscript is from the makers of anaconda, numpy, scipy, etc. the anaconda ceo and cofounder peter wang gave a [keynote at pycon 2022](https://www.youtube.com/watch?v=qKfkCY7cmBQ) introducing it
