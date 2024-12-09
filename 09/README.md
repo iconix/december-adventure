@@ -7,5 +7,6 @@
 - anyway! for today, i finished a nature of code sketch that i _just barely_ was able to begin late saturday night
 - this is my first completed exercise from chapter 2
 - [code here](https://github.com/iconix/rc-natureofcode/tree/9af3175820964ca1f4bc632dad6169d65033b3e1/exercise_21)
+- [play here](https://htmlpreview.github.io/?https://github.com/iconix/rc-natureofcode/blob/main/exercise_21/index.html)
 
-<iframe src="https://htmlpreview.github.io/?https://github.com/iconix/rc-natureofcode/blob/main/exercise_21/index.html"  title='p5.js sketch of a helium balloon in various atmospheres' width='600' height='400'>
+![p5.js sketch of a helium balloon in various atmospheres](helium.gif)
